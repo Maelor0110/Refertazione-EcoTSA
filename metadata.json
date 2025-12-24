@@ -1,0 +1,5 @@
+{
+  "name": "TSA EchoReporter Pro",
+  "description": "Una webapp professionale per medici ecodoppleristi per la refertazione guidata degli esami EcocolorDoppler dei Tronchi Sovraortici (TSA), con assistenza AI per la sintesi delle conclusioni cliniche.",
+  "requestFramePermissions": []
+}
